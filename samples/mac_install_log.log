@@ -1,0 +1,19 @@
+Oct  3 14:41:45 reinette.home InstallAssistantTool[1246]: Machine appears to be AR capable
+Oct  3 14:41:45 reinette.home InstallAssistant[1231]: Commit was successful
+Oct  3 05:42:51 localhost configd[112]: Starting "configd" plugin thread
+Oct  3 05:43:03 localhost configd[112]: Update interface configuration: State:/Network/Interface/lo0/IPv4: <dictionary> {
+Oct  3 05:43:03 localhost configd[112]:   Addresses : <array> {
+Oct  3 05:43:03 localhost configd[112]:     0 : 127.0.0.1
+Oct  3 05:43:03 localhost configd[112]:   }
+Oct  3 05:43:03 localhost configd[112]: }
+Oct  3 05:43:25 MacBook Unknown[428]: 2015-10-03 05:43:25.367 Language Chooser[427:6780] TSplicedFont failed creating descriptor for:
+Oct  3 05:43:25 MacBook Unknown[428]: (
+Oct  3 05:43:25 MacBook Unknown[428]:         {
+Oct  3 05:43:25 MacBook Unknown[428]:         UnicodeRange = "<__NSCFCharacterSet: 0x7fe78b4a02a0>";
+Oct  3 05:43:25 MacBook Unknown[428]:         name = NotoSansBuhid;
+Oct  3 05:43:25 MacBook Unknown[428]:     },
+Mar 10 15:09:52 surfer-172-29-119-29-proxy softwareupdated[475]: Adding client SUUpdateServiceClient pid=69980, uid=502, installAuth=NO rights=(), transactions=0 (/System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_notify_agent)
+Mar 10 15:09:53 surfer-172-29-119-29-proxy softwareupdate_notify_agent[69980]: Notifying with params: {
+            SoftwareUpdateCount = 0;
+            SoftwareUpdatesAvailable = 0;
+        }
